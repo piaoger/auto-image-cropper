@@ -1,5 +1,5 @@
 [package]
-name = "auto-image-cropper"
+name = "autocrop"
 version = "0.1.5"
 authors = ["Ritiek <ritiekmalhotra123@gmail.com>"]
 description = "Removes extra white borders to correctly resize canvas"
