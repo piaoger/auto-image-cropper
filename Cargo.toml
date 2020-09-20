@@ -8,6 +8,7 @@ readme = "README.md"
 keywords = ["image", "crop", "auto", "canvas", "resize"]
 categories = ["multimedia::images", "command-line-utilities"]
 license = "MIT"
+edition = "2018"
 
 [dependencies]
 clap = "*"

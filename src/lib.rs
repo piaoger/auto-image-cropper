@@ -1,4 +1,3 @@
-extern crate image;
 
 use std::fs;
 use std::path::Path;

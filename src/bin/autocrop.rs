@@ -1,6 +1,3 @@
-extern crate autocrop;
-extern crate clap;
-extern crate rayon;
 
 use clap::{App, Arg};
 use rayon::prelude::*;
